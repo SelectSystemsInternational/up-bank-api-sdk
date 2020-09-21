@@ -1,3 +1,5 @@
+![.NET Core](https://github.com/SelectSystemsInternational/up-bank-api/workflows/.NET%20Core/badge.svg?branch=master&event=status)
+
 # up-bank-api
 A .Net SDK for the [UpBank API](https://developer.up.com.au/)
 
