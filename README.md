@@ -31,6 +31,4 @@ I welcome any comments or if you find problems let me know.
 
 Since finalising this version and coming to understand a lot more about swagger and auto code creation from an Open Specification I will revisit it and produce a new version.
 
-I just found the openapi.json specification and loaded it into My Swagger Hub and generate a cSharp Client SDK but there was a bunch of errors when I loaded it into Visual Studio and tried to build it. Not sure if that is an error in the openapi.json or bugs in the swagger code generator. I will look into it all over time.
-
-Till then. Happy open banking !
+I just found the openapi.json specification and loaded it into My Swagger Hub and generate a cSharp Client SDK but there was a bunch of errors when I loaded it into Visual Studio and tried to build it. Not sure if that is an error in the openapi.json or bugs in the swagger code generator. I will look into soon.
