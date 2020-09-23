@@ -24,8 +24,8 @@ The following modules of the Up API are fully supported:
 
 ## Not supported yet
 
-This SDK was produced by manually creating all the classes by reading the online document and developer website. 
-I modified another Api to incorporated the new data structures and then made some test routines. 
+This SDK was produced by manually creating all the classes by reading the specification on the developer website. 
+I modified another Api to incorporated all the new data structures and then made some test routines.
 All endpoints in the Up Bank Api are supported. The SDK has been tested with my Up Bank account.
 I welcome any comments or if you find problems let me know.
 
