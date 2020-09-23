@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Company>Select Systems International - www.SelectSystems.com.au</Company>
+    <Authors>Andrew Macdonald</Authors>
+    <Description>This is a SDK to use the Up Bank Api - See https://developer.up.com.au/</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Model\Settlement.cs" />
+    <Compile Remove="Model\SettlementTransactions.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="RestSharp" Version="106.11.5" />
+  </ItemGroup>
+
+</Project>
