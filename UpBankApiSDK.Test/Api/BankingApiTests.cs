@@ -41,7 +41,7 @@ namespace UpBankApi.Test
         [SetUp]
         public void SetUp()
         {
-            apiToken = "up:yeah:iMdklKE0kl9BYoH2nq9GIm6rSmnT47N5xQDr6a6MW4ufVVf3q3VVv3ZQL7Rvh9pHae1F4SpOlZjlbDbdEjQfT1GH5dUwTrlqwBvGoCeZz0fJF5gAQ6f9KZubhMrlomuk";
+            apiToken = "up:yeah:<enter your token>";
             clientString = "https://api.up.com.au/api/v1";
         }
 
