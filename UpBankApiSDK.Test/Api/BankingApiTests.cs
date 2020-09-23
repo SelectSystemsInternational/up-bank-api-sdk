@@ -826,9 +826,6 @@ namespace UpBankApi.Test
         [Test]
         public void TestTransactions()
         {
-            var config = new Configuration();
-            config.ApiToken = apiToken;
-            var apiClient = new ApiClient(config);
 
             var account = GetAccountByName("Up Account");
 
