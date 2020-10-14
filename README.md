@@ -9,7 +9,7 @@ A .Netcore SDK for the [UpBank API](https://developer.up.com.au/)
 
 ## Usage
 
-Download this Repository which is currently built using .Netcore 3.1 and build in Visual Stuio
+Download this Repository which is currently built using .Netcore 3.1 in Visual Studio
 
 ## Supported modules
 
